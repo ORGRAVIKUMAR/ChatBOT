@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165189396512",
+    "project_id": "easy-chatgpt-87c2d",
+    "storage_bucket": "easy-chatgpt-87c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165189396512:android:2fb9d8b102f68cbbce7445",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlek9G5ao2yjFIlakR8FgglihfQhD-Cy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
